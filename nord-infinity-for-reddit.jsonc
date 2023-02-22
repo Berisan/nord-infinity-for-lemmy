@@ -1,0 +1,97 @@
+/**
+ * nord-infinity-for-reddit
+ *
+ * A Nord theme port for the Infinity Reddit client for Android 🗻
+ *
+ * https://github.com/Berisan/nord-infinity-for-reddit
+ */
+{
+    "archivedTint": -4944211, // nord15
+    "authorFlairTextColor": -11774358, // nord3
+    "awardedCommentBackgroundColor": -13749184, // nord0
+    "awardsBackgroundColor": 0,
+    "awardsTextColor": -10583636, // nord10
+    "backgroundColor": -13749184, // nord0
+    "bottomAppBarBackgroundColor": -12893614, // nord1
+    "bottomAppBarIconColor": -2564375, // nord4
+    "buttonTextColor": -1249292, // nord6
+    "cardViewBackgroundColor": -12893614, // nord1
+    "chipTextColor": -1249292, // nord6
+    "circularProgressBarBackground": -12893614, // nord1
+    "colorAccent": -7814960, // nord8
+    "colorPrimary": -12893614, // nord1
+    "colorPrimaryDark": -13749184, // nord0
+    "colorPrimaryLightTheme": -7814960, // nord8
+    "commentBackgroundColor": -13749184, // nord0
+    "commentColor": -1249292, // nord6
+    "commentIconAndInfoColor": -2564375, // nord4
+    "commentVerticalBarColor1": -7357253, // nord7
+    "commentVerticalBarColor2": -7814960, // nord8
+    "commentVerticalBarColor3": -8281663, // nord9
+    "commentVerticalBarColor4": -10583636, // nord10
+    "commentVerticalBarColor5": -7357253, // nord7
+    "commentVerticalBarColor6": -7814960, // nord8
+    "commentVerticalBarColor7": -2564375, // nord4
+    "crosspostIconTint": -4234902, // nord11
+    "currentUser": -7814960, // nord8
+    "dividerColor": -11774358, // nord3
+    "downvoted": -3111056, // nord12
+    "fabIconColor": -13749184, // nord0
+    "flairBackgroundColor": 0,
+    "flairTextColor": -8281663, // nord9
+    "fullyCollapsedCommentBackgroundColor": -11774358, // nord3
+    "isAmoledTheme": false,
+    "isChangeStatusBarIconColorAfterToolbarCollapsedInImmersiveInterface": false,
+    "isDarkTheme": true,
+    "isLightNavBar": false,
+    "isLightStatusBar": false,
+    "isLightTheme": true,
+    "linkColor": -10583636, // nord10
+    "lockedIconTint": -3111056, // nord12
+    "mediaIndicatorBackgroundColor": -12893614, // nord1
+    "mediaIndicatorIconColor": -2564375, // nord4
+    "moderator": -6046068, // nord14
+    "name": "Nord",
+    "navBarColor": -13749184, // nord0
+    "noPreviewPostTypeBackgroundColor": -12893614, // nord1
+    "noPreviewPostTypeIconTint": -7814960, // nord8
+    "nsfwBackgroundColor": 0,
+    "nsfwTextColor": -4234902, // nord11
+    "postContentColor": -1709584, // nord5
+    "postIconAndInfoColor": -2564375, // nord4
+    "postTitleColor": -1249292, // nord6
+    "postTypeBackgroundColor": 0,
+    "postTypeTextColor": -7357253, // nord7
+    "primaryIconColor": -2564375, // nord4
+    "primaryTextColor": -1249292, // nord6
+    "readPostCardViewBackgroundColor": -13749184, // nord0
+    "readPostContentColor": -2564375, // nord4
+    "readPostTitleColor": -2564375, // nord4
+    "receivedMessageBackgroundColor": -12893614, // nord1
+    "receivedMessageTextColor": -1249292, // nord6
+    "secondaryTextColor": -1709584, // nord5
+    "sendMessageIconColor": -7814960, // nord8
+    "sentMessageBackgroundColor": -11774358, // nord3
+    "sentMessageTextColor": -1249292, // nord6
+    "singleCommentThreadBackgroundColor": -13749184, // nord0
+    "spoilerBackgroundColor": 0,
+    "spoilerTextColor": -7814960, // nord8
+    "stickiedPostIconTint": -7814960, // nord8
+    "submitter": -7357253, // nord7
+    "subreddit": -7357253, // nord7
+    "subscribed": -7357253, // nord7
+    "tabLayoutWithCollapsedCollapsingToolbarTabBackground": -13749184, // nord0
+    "tabLayoutWithCollapsedCollapsingToolbarTabIndicator": -7814960, // nord8
+    "tabLayoutWithCollapsedCollapsingToolbarTextColor": -1249292, // nord6
+    "tabLayoutWithExpandedCollapsingToolbarTabBackground": -13749184, // nord0
+    "tabLayoutWithExpandedCollapsingToolbarTabIndicator": -7814960, // nord8
+    "tabLayoutWithExpandedCollapsingToolbarTextColor": -1249292, // nord6
+    "toolbarPrimaryTextAndIconColor": -1249292, // nord6
+    "toolbarSecondaryTextColor": -1249292, // nord6
+    "unreadMessageBackgroundColor": -10583636, // nord10
+    "unsubscribed": -11774358, // nord3
+    "upvoteRatioIconTint": -7814960, // nord8
+    "upvoted": -7357253, // nord7
+    "username": -8281663, // nord9
+    "voteAndReplyUnavailableButtonColor": -12893614 // nord1
+}
